@@ -1,0 +1,96 @@
+
+Arts Patronage/.ipynb_checkpoints/art2vec-checkpoint.ipynb
+Arts Patronage/.ipynb_checkpoints/LDA_arts-checkpoint.ipynb
+Arts Patronage/.ipynb_checkpoints/TF-IDF_arts-checkpoint.ipynb
+Arts Patronage/14~18.db
+Arts Patronage/14~18.pkl
+Arts Patronage/art2vec.w2v
+Arts Patronage/artAds.dat
+Arts Patronage/artNouns.dat
+Arts Patronage/artTokens.dat
+Arts Patronage/invertedIdx.dic
+Arts Patronage/invertedIdx_ads.dic
+Arts Patronage/lda.model
+Arts Patronage/lda.model.expElogbeta.npy
+Arts Patronage/lda.model.id2word
+Arts Patronage/lda.model.state
+Arts Patronage/test.xlsx
+Arts Patronage/test2.xlsx
+The Big Wave/포항_2017utf.csv
+The Big Wave/포항_2017.csv
+The Big Wave/좋은파도의 조건 & 파도차트 보는 법 _ 서핑꿀팁 서부웨이 #15 - YouTube.html
+The Big Wave/서핑_통화내용.docx
+The Big Wave/서핑 배우기 파도 차트 읽기 _ YESiSURF.com.html
+The Big Wave/다양한_환경_요인을_고려한_실시간_파도_시뮬레이션.pdf
+The Big Wave/OpenAPI활용가이드(기상청_해양관측자료(부이, 등표, 파고부이) 월값(월보))_v1.0.pdf
+The Big Wave/on-line wave prediction.pdf
+The Big Wave/ML Framwork to forcast wave conditions.pdf
+The Big Wave/Global Forecast System (GFS) _ National Centers for Environmental Information (NCEI) formerly known as National Climatic Data Center (NCDC).html
+The Big Wave/gfsanl_3_20040401_0000_000.grb.aux.xml
+Arts Patronage/.ipynb_checkpoints/텍스트 전처리-checkpoint.ipynb
+Arts Patronage/.ipynb_checkpoints/아트허브 크롤러-checkpoint.ipynb
+Arts Patronage/art2vec_20.w2v
+Arts Patronage/art2vec_200.w2v
+Arts Patronage/art2vec_200.w2v.trainables.syn1neg.npy
+Arts Patronage/art2vec_200.w2v.wv.vectors.npy
+Arts Patronage/art2vec_300.w2v
+Arts Patronage/art2vec_300.w2v.trainables.syn1neg.npy
+Arts Patronage/art2vec_300.w2v.wv.vectors.npy
+Arts Patronage/artAd_nouns.dat
+Arts Patronage/artists.dic
+Arts Patronage/artists_twice_tokens.lst
+Arts Patronage/d2v_artist.model
+Arts Patronage/d2v_artist.model.trainables.syn1neg.npy
+Arts Patronage/d2v_artist.model.wv.vectors.npy
+Arts Patronage/invertedIdx_artists_tokens.dic
+Arts Patronage/invertedIdx_nouns.dic
+Arts Patronage/invertedIdx_tokens.dic
+Arts Patronage/lda_7.model
+Arts Patronage/lda_7.model.expElogbeta.npy
+Arts Patronage/lda_7.model.id2word
+Arts Patronage/lda_7.model.state
+Arts Patronage/sorted_artists_twice.lst
+Arts Patronage/sortedByWeight_ads.lst
+Arts Patronage/TFIDF.dic
+Arts Patronage/TFIDF_artists.dic
+Arts Patronage/.ipynb_checkpoints/PV-DM with LDA-checkpoint.ipynb
+Arts Patronage/.ipynb_checkpoints/아트허브 크롤러-checkpoint.ipynb
+Arts Patronage/art2vec_adnouns_100.w2v
+Arts Patronage/art2vec_morphs_100.w2v
+Arts Patronage/artAd_nouns_final.dat
+Arts Patronage/artists_final.dic
+Arts Patronage/artists_twice_adnouns_final.lst
+Arts Patronage/artists_twice_morphs_final.lst
+Arts Patronage/artists_twice_nouns_final.lst
+Arts Patronage/artMorphs_final.dat
+Arts Patronage/artNouns_final.dat
+Arts Patronage/corpus_nouns_refined_final.lst
+Arts Patronage/d2v_artist_100.model
+Arts Patronage/d2v_exhb.model
+Arts Patronage/d2v_exhb_100.model
+Arts Patronage/data_final.xlsx
+Arts Patronage/data_final3.csv
+Arts Patronage/invertedIdx_adnouns_final.dic
+Arts Patronage/invertedIdx_artists_adnouns_final.dic
+Arts Patronage/invertedIdx_artists_morphs_final.dic
+Arts Patronage/invertedIdx_morphs_final.dic
+Arts Patronage/invertedIdx_nouns_final.dic
+Arts Patronage/lda_artist_7.model
+Arts Patronage/lda_artist_7.model.expElogbeta.npy
+Arts Patronage/lda_artist_7.model.id2word
+Arts Patronage/lda_artist_7.model.state
+Arts Patronage/lda_exhb_10.model
+Arts Patronage/lda_exhb_10.model.expElogbeta.npy
+Arts Patronage/lda_exhb_10.model.id2word
+Arts Patronage/lda_exhb_10.model.state
+Arts Patronage/nouns_refined_final.dic
+Arts Patronage/sorted_artists_twice_final.lst
+Arts Patronage/test_all_preprocessed.xlsx
+Arts Patronage/TFIDF_adnouns_final.dic
+Arts Patronage/TFIDF_artists_adnouns_final.dic
+Arts Patronage/TFIDF_artists_morphs_final.dic
+Arts Patronage/TFIDF_artists_nouns_final.dic
+Arts Patronage/TFIDF_morphs_final.dic
+Arts Patronage/TFIDF_nouns_final.dic
+Musinsa Analysis/.ipynb_checkpoints/바지 핏 클러스터링-checkpoint.ipynb
+Arts Patronage/.ipynb_checkpoints/아트허브 크롤러-checkpoint.ipynb
