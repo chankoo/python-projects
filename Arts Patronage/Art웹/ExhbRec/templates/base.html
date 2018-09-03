@@ -1,0 +1,53 @@
+<!doctype html>
+<html{% block html_attribs %} lang='ko'{% endblock html_attribs %}>
+  <head>
+    <title>{% block title %}{{title|default}}{% endblock title %}</title>
+
+    <meta charset="utf-8">
+
+    <!-- site tittle -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Flying is a responsive &amp; interactive fullscreen portfolio for artists, photographers, media agencies, restaurants and for everyone that wants to showcase their portfolio in a professional way.">
+    <meta name="keywords" content="responsive, portfolio, professional, artist, fullscreen, photo, photographers, agencies, agencies, php, interaction">
+
+    <!-- mobile meta tag -->
+{#    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">#}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="HTML5 Template">
+    <meta name="referrer" content="no-referrer"/>
+
+    <!-- css style -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'css/normalize.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'css/base.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'css/style.css') }}">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+      <!-- favion -->
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ url_for('static', filename = 'images/favicon16.png') }}">
+{#    <!-- apple touch icon -->#}
+{#    <link rel="apple-touch-icon" href="images/ico-phone.png">#}
+
+    {%- block styles %}
+    {% endblock styles -%}
+  </head>
+  <body{% block body_attribs %}{% endblock body_attribs %}>
+    {% include 'navigation.html' %}
+    <div class="container"{% block container %}{% endblock container %}>
+    {%- block alerts %}{% endblock alerts -%}
+    {% block content -%}{%- endblock content %}
+    </div>
+
+      <!-- JQUERY SCRIPTS -->
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/jquery-1.11.2.min.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/jquery.moutheme.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/modernizr.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/form.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/default.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/jquery.mixitup.min.js') }}"></script>
+      <script type="text/javascript" src="{{ url_for('static', filename = 'js/jquery.oLoader.js') }}"></script>
+
+    {%- block scripts %}
+    {% endblock scripts -%}
+  </body>
+</html>
