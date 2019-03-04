@@ -94,3 +94,6 @@ Arts Patronage/TFIDF_morphs_final.dic
 Arts Patronage/TFIDF_nouns_final.dic
 Musinsa Analysis/.ipynb_checkpoints/바지 핏 클러스터링-checkpoint.ipynb
 Arts Patronage/.ipynb_checkpoints/아트허브 크롤러-checkpoint.ipynb
+Arts Patronage/협업제안서_예술과 아카이브.pdf
+Arts Patronage/Art웹/ExhbRec/static/data/d2v_exhb_100.model
+Arts Patronage/Art웹/ExhbRec/ExhbnRec.db
